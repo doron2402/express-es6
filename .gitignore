@@ -1,0 +1,7 @@
+node_modules
+public/vendors
+views/templates
+settings/localization
+.DS_Store
+doc
+npm-debug.log
